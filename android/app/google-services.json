@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "753604450249",
+    "project_id": "login-authentication-e4134",
+    "storage_bucket": "login-authentication-e4134.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753604450249:android:48899d9e599982d0edba18",
+        "android_client_info": {
+          "package_name": "com.example.news_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753604450249-lq1e20j1b4dnkihpli4jes773nd8sg8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC53xyG3eo6DTGXJjeGMe2vOhdBAq-4TLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753604450249-lq1e20j1b4dnkihpli4jes773nd8sg8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
